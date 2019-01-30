@@ -1,0 +1,34 @@
+.body
+{
+	width: 1300px;
+	height: 160px;
+	
+	padding-left: 20px;
+	padding-right: 20px;
+	background: #44c83b ;
+}
+.title
+{
+	font-size: 5vw;
+	color:  #2e2826 ;
+	padding-top: 40px;
+	
+}
+.p{
+	font-size: 3vw;
+	color:#7b7e7a;
+	padding-top:20px;
+	padding-left: 60px;
+	padding-bottom: 40px;
+	padding-right: 60px;
+
+}
+.nav
+{
+	background-color:#f3fcf2;
+	width: 1200px;
+	font-size: 2vw;
+}
+@media only screen and (max-width: 479px){
+    #title { width: 90%; }
+}
