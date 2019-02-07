@@ -16,14 +16,25 @@
 }
 .p{
 	font-size: 3vw;
-	color:#7b7e7a;
+	color:#e33327;
+	font-weight: lighter;
 	padding-top:20px;
 	padding-left: 60px;
 	padding-bottom: 40px;
 	padding-right: 60px;
 
 }
-.nav
+.p2{
+	font-weight: lighter;
+	font-size: 3vw;
+	color:#e33327;
+	padding-top:20px;
+	padding-left: 60px;
+	padding-bottom: 40px;
+	padding-right: 60px;
+
+}
+.navigation
 {
 	background-color:#f3fcf2;
 	width: 1200px;
@@ -31,4 +42,19 @@
 }
 @media only screen and (max-width: 479px){
     #title { width: 90%; }
+}
+.narbar_font
+{
+	font-size: 2vw;
+}
+.font_details{
+			font-size: 40px;
+			padding: 100px;
+			}
+.button_div{
+	padding-left: 100px;
+	padding-top: 70px;
+}			
+.classy{
+	padding: 10px;
 }
