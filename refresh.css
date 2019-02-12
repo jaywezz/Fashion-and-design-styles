@@ -52,15 +52,22 @@
 			padding: 100px;
 			}
 .button_div{
+<<<<<<< HEAD
 	padding-left: 200px;
+=======
+	padding-left: 100px;
+>>>>>>> a63831112fefe39b15fb2f2be3d37aafc134cb5d
 	padding-top: 70px;
 }			
 .classy{
 	padding: 10px;
+<<<<<<< HEAD
 	font-size: 2vw;
 }
 
 .font_description{
 	font-size: 20px;
 	
+=======
+>>>>>>> a63831112fefe39b15fb2f2be3d37aafc134cb5d
 }
